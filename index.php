@@ -1,5 +1,5 @@
 <?php
- $token = "kjEv3TVS76bQUNkI2Xhse5L9O8hNHY1hQM9nkmn5l3N";
+ $token = "O7OAUYg8Oo0hYZnGhzscN61SM2YWb1eLNMuCPpmzi5Q";
 
  $mes = $_GET['mes'];
  $stickerPkg = 3; //stickerPackageId
